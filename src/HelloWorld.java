@@ -14,6 +14,11 @@ public class HelloWorld {
     public HelloWorld(String name, String fatherName) {
         this.name = name;
         this.fatherName = fatherName;
+        public int amount;
+        public int price;
+    public HelloWorld(int amount, int price) {
+            this.amount = amount;
+            this.price = price;
 
     }
 }
