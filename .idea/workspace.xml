@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1b9a2f3-ded9-4d6f-bb45-fc130e2b2d2a" name="Changes" comment="StashTesting added friend&#10;StashTesting&#10;OrderApplication development is done" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="UpdateStudent" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2cIPnsQa2zpPPJp5gLUR3EwMkJJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "CherryPeak",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1b9a2f3-ded9-4d6f-bb45-fc130e2b2d2a" name="Changes" comment="" />
+      <created>1707796289597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707796289597</updated>
+    </task>
+    <task id="LOCAL-00001" summary="StashTesting">
+      <option name="closed" value="true" />
+      <created>1707796460666</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707796460666</updated>
+    </task>
+    <task id="LOCAL-00002" summary="StashTesting">
+      <option name="closed" value="true" />
+      <created>1707796844589</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707796844589</updated>
+    </task>
+    <task id="LOCAL-00003" summary="StashTesting added friend">
+      <option name="closed" value="true" />
+      <created>1707799221749</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707799221749</updated>
+    </task>
+    <task id="LOCAL-00004" summary="StashTesting added friend&#10;StashTesting">
+      <option name="closed" value="true" />
+      <created>1707799577924</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707799577924</updated>
+    </task>
+    <task id="LOCAL-00005" summary="StashTesting added friend&#10;StashTesting&#10;OrderApplication development is done">
+      <option name="closed" value="true" />
+      <created>1707801129529</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707801129529</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="StashTesting" />
+    <MESSAGE value="StashTesting added friend" />
+    <MESSAGE value="StashTesting added friend&#10;StashTesting" />
+    <MESSAGE value="StashTesting added friend&#10;StashTesting&#10;OrderApplication development is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="StashTesting added friend&#10;StashTesting&#10;OrderApplication development is done" />
+  </component>
+</project>
